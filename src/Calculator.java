@@ -14,7 +14,7 @@ public class Calculator {
         return total;
     }
     
-    public static double delete(int num1, int num2){
-        return num1/num2;
+    public static double remainder(int num1, int num2){
+        return num1%num2;
     }
 }
