@@ -13,4 +13,8 @@ public class Calculator {
         double total = num1*num2;
         return total;
     }
+    
+    public static double delete(int num1, int num2){
+        return num1/num2;
+    }
 }
