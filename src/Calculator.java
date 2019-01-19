@@ -23,4 +23,9 @@ public class Calculator {
 
     }
     //LOCAL PERO:Comment 2
+
+    public static double devide(int a, int b){
+        return a/b;
+
+    }
 }
