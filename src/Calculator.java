@@ -10,6 +10,7 @@ public class Calculator {
     }
     
     public static double multiply(int num1, int num2){
-        return num1*num2;
+        double total = num1*num2;
+        return total;
     }
 }
